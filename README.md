@@ -1,4 +1,4 @@
-# DIRECT-SNIPE
+# PY-SNIPE
 An open source Minecraft name sniper.
 
 # Installation
